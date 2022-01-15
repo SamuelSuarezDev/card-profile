@@ -96,16 +96,16 @@ margin-right: 300px;
 .items img{
   margin-top: 15px;
   width: 30px;
-  padding: 35px;
+  padding: 34px;
  justify-content: space-around;
 }
 .modal-contenido{
    background-image: url("./IMG_20220114_130325.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  margin: 4px 290px;
-  width:300px;
-  height: 400px;
+  margin: 4px 420px;
+  width:500px;
+  height: 600px;
   position: relative;
   border: solid 5px #fff;
   border-radius: 100px;
@@ -138,10 +138,12 @@ margin-right: 300px;
   .items img{
   margin-top: 15px;
   width: 30px;
-  padding: 19px;
+  padding: 18.6px;
   justify-content: space-around;
 }
 .modal-contenido{
+  width: 300px;
+  height: 400px;
   margin: 4px 30px;
     background-image: url("./IMG_20220114_130325.jpg");
   background-repeat: no-repeat;
