@@ -95,8 +95,9 @@ margin-right: 300px;
 }
 .items img{
   margin-top: 15px;
-  width: 25px;
-  padding: 0 20px;
+  width: 30px;
+  padding: 35px;
+ justify-content: space-around;
 }
 .modal-contenido{
    background-image: url("./IMG_20220114_130325.jpg");
